@@ -37,7 +37,7 @@ p
   position: fixed;
   font-family: cursive;
   top:10px;
-  right: 300px;
+  right: 700px;
   z-index: 10;
   cursor: pointer;
   color: #546E7A;
@@ -55,4 +55,8 @@ p
 {
   font-size: 35px;
   color: crimson;
+}
+#about
+{
+   padding-top: 100px; 
 }
